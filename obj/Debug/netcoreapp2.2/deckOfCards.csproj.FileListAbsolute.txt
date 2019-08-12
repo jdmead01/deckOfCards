@@ -1,0 +1,11 @@
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/deckOfCards/bin/Debug/netcoreapp2.2/deckOfCards.deps.json
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/deckOfCards/bin/Debug/netcoreapp2.2/deckOfCards.runtimeconfig.json
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/deckOfCards/bin/Debug/netcoreapp2.2/deckOfCards.runtimeconfig.dev.json
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/deckOfCards/bin/Debug/netcoreapp2.2/deckOfCards.dll
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/deckOfCards/bin/Debug/netcoreapp2.2/deckOfCards.pdb
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/deckOfCards/obj/Debug/netcoreapp2.2/deckOfCards.csprojAssemblyReference.cache
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/deckOfCards/obj/Debug/netcoreapp2.2/deckOfCards.csproj.CoreCompileInputs.cache
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/deckOfCards/obj/Debug/netcoreapp2.2/deckOfCards.AssemblyInfoInputs.cache
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/deckOfCards/obj/Debug/netcoreapp2.2/deckOfCards.AssemblyInfo.cs
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/deckOfCards/obj/Debug/netcoreapp2.2/deckOfCards.dll
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/deckOfCards/obj/Debug/netcoreapp2.2/deckOfCards.pdb

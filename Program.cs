@@ -1,12 +1,15 @@
 ﻿using System;
 
-namespace deckOfCards
+namespace DeckOfCards
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var myDeck = new Deck();
+            myDeck.Deal();
+            myDeck.Shuffle();
+            myDeck.PrintShoe();
         }
     }
 }
